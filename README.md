@@ -1,1 +1,1 @@
-# NBA Lakers Project
+# Exploratory Analysis on NBA Lakers Match Data
