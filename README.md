@@ -1,1 +1,1 @@
-# NBA-Lakers-Project
+# NBA Lakers Project
