@@ -6,6 +6,7 @@ lakers.csv dataset contains nearly 35,000 rows of data and includes basketball m
 ## Preliminary Actions
 ### Basketball Court Model
 ![court](https://github.com/user-attachments/assets/a84013ef-a5e9-4379-9842-28f2d9912dd9)
+
 A half court model of a basketball court using ggplot2, following the exact measurement of a NBA basketball court in feet. This model is essential for mapping shot location data consisting of x and y coordinates to actual location on a basketball court. 
 
 ### Data Cleaning and Wrangling
