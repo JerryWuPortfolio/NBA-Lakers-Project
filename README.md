@@ -26,3 +26,4 @@ Similar to True Shooting percentage, effective Field Goal percentage is calculat
 ![eFG](https://github.com/user-attachments/assets/2029e996-c00b-414b-90a6-b17efc98ba27)
 
 ### Conclusion
+I decided to split shooting into three categories, separated by location on the court. These three categories are three point shooting, post scoring and overall scoring. The most effective shooter for these three categories are Pau Gasol, Derek Fisher and Kobe Bryant, backed up by amount attempted and field goal percentage from different areas on the court. 
